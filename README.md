@@ -95,7 +95,7 @@ Delete all existing data and start with a clean codebase.
 python clean.py
 ```
 ## Generate Unknown face class [unknow.csv](https://raw.githubusercontent.com/NeuralFalconYT/college-attendance-system/refs/heads/main/unknown.csv)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYTcollege-attendance-system/blob/main/unknown_face.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/college-attendance-system/blob/main/unknown_face.ipynb)
 
 
 
